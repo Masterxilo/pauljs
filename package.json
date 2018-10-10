@@ -1,0 +1,31 @@
+{
+  "name": "pauljs",
+  "version": "0.1.0",
+  "description": "Paul Frischknecht's Plain JavaScript Utilities",
+  "main": "index.js",
+  "dependencies": {
+    "query": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masterxilo/pauljs.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "browserify",
+    "utilities",
+    "random",
+    "collection"
+  ],
+  "author": "Paul Frischknecht",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Masterxilo/pauljs/issues"
+  },
+  "homepage": "https://github.com/Masterxilo/pauljs#readme"
+}
