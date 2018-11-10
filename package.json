@@ -4,7 +4,7 @@
   "description": "Paul Frischknecht's Plain JavaScript Utilities",
   "main": "index.js",
   "dependencies": {
-    "query": "^0.1.8"
+    "protobi/query": "^0.1.8"
   },
   "devDependencies": {},
   "scripts": {
